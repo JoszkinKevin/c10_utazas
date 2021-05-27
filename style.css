@@ -4,6 +4,9 @@ body {
 
 header {
   border: 1px solid white;
+  color: white;
+  font: caption;
+  text-align: center;
 }
 
 header h1 {
